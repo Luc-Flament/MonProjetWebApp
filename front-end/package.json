@@ -1,0 +1,16 @@
+{
+  "name": "luc-meme-ory",
+  "version": "1.0.0",
+  "description": "A memory game based on memes ¯\\(ツ)\\/¯.",
+  "main": "\\",
+  "private": true,
+  "scripts": {
+    "test": "\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/\\/\\web-01"
+  },
+  "author": "",
+  "license": "ISC"
+}
