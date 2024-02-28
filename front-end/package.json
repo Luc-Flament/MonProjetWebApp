@@ -5,6 +5,7 @@
   "main": "\\",
   "private": true,
   "scripts": {
+    "start": "http-server -c-1",
     "test": "\\"
   },
   "repository": {
@@ -12,5 +13,8 @@
     "url": "/\\/\\web-01"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
 }
