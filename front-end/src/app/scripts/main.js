@@ -3,6 +3,7 @@
 // TODO #import-css: use ES side-effect imports to import styles/style.css
 
 const outlet = document.querySelector("#content-outlet");
+import {Router} from "./router";
 const router = new Router(outlet);
 router
   .register("", {
