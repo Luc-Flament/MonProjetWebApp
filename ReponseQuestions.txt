@@ -1,2 +1,3 @@
 Question 2 : 315kB
 Question 3 : 315kB
+Question : Look at the dist/main.js : 43,2 Mo
